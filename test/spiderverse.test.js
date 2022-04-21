@@ -6,7 +6,7 @@ describe("Unit test for Spiderman Class", () => {
       expect(spiderman.name).toBe('Spiderman');
       expect(spiderman.age).toBe(30);
       expect(spiderman.actor).toBe('Peter Parker');
-      expect(spiderman.numberOfMovies).toBe(5);
-      expect(spiderman.filmStudio).toBe('Marvel');
+      expect(spiderman.numberOfMovies).toBe(10);
+      expect(spiderman.filmStudio).toBe('Marvels');
     });
   })
